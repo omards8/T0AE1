@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-LM10
-=======
-ods
->>>>>>> master
+proyecto 4
