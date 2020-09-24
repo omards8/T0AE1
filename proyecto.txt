@@ -1,11 +1,5 @@
-<<<<<<< HEAD
 proyecto 4
 ods
 2
-=======
-<<<<<<< HEAD
-LM10
-=======
-omar doussas sanchis - 18
->>>>>>> master
->>>>>>> c3a5d21020ff5e6781a3790d9f19f5e6a06c751e
+4
+6
